@@ -1,4 +1,4 @@
-<CODTYPE html!>
+<!DOCTYPE html>
   <html>
     <head>
       <h1>Hello this is the heading</h1>
